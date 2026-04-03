@@ -50,7 +50,7 @@ if __name__ == "__main__":
     # Asegúrate de que tu clase en interface.py reciba (ancho_g, alto_g)
     app = HeartopiaDashboard(
         ruta_svg="data/paleta.svg", 
-        ruta_img="data/imagen.jpg", 
+        ruta_img="data/test.png", 
         ancho_g=ancho_final,
         alto_g=alto_final
     )
